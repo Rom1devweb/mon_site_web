@@ -79,7 +79,7 @@ fabric.properties
 .idea/composerJson.xml
 
 !/.gitignore
-tmp/todo.txt
+
 tmp/*
 *.xml
 *.txt
