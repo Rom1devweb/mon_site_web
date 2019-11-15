@@ -81,5 +81,4 @@ fabric.properties
 !/.gitignore
 tmp/todo.txt
 tmp/*
-*.txt
-
+*.xml
