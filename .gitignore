@@ -82,3 +82,4 @@ fabric.properties
 tmp/todo.txt
 tmp/*
 *.xml
+*.txt
