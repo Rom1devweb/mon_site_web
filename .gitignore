@@ -80,3 +80,4 @@ fabric.properties
 
 tmp/todo.txt
 !/.gitignore
+tmp/*
